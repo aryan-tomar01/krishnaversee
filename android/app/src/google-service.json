@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476996817016",
+    "project_id": "krishnaversee-10fc7",
+    "storage_bucket": "krishnaversee-10fc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476996817016:android:bc004ae7f415f1b2da9d8d",
+        "android_client_info": {
+          "package_name": "com.example.krishnaversee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476996817016-klei8l55gp9rrfe3i6gb73490sljruf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krishnaversee",
+            "certificate_hash": "9e8ec2bcdd7fb7ef33474d2d1f02960807b91404"
+          }
+        },
+        {
+          "client_id": "476996817016-f41v6epv89tgtuh7ti8r8va5ni2k8kup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvNR1zXyk2oG1R0JJDYrzw9eRtnUU5NFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476996817016-f41v6epv89tgtuh7ti8r8va5ni2k8kup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
